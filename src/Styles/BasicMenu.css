@@ -1,0 +1,20 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menu-header{
+    margin-top: 8px;
+    width: 100%;
+}
+.menu-header-function{
+    position: absolute;
+    right: 10%;
+}
+.menu-header p{
+    font-weight: bold;
+    font-size: 17px;
+    padding-top: 0.9%;
+}
+.menu-header-nav{
+    margin-left: 0.8%;
+    margin-right: 0.8%;
+}

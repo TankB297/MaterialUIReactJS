@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+body {
+  background: #ffffbb;
+  /* background-image: url(./Images/bg-main.jpg);
+  background-repeat: no-repeat; 
+  background-size: cover;
+  background-attachment: fixed; */
+}

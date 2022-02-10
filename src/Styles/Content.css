@@ -1,0 +1,31 @@
+.content-main{
+    width: 30%;
+    margin-left: 9%;
+    margin-top: 2%;
+}
+.content-main h1{
+    font-size: 40px;
+    text-align: left;
+}
+.content-main h2{
+    font-size: 18px;
+    text-align: left;
+    color: #382a2a;
+}
+.content-main Button{
+    text-transform: capitalize;
+}
+.content-main-button{
+    position: absolute;
+    bottom: 10%;
+}
+.content-main-01{
+    width: 100%;
+    display: flex;
+}
+.content-main-background{
+    position: absolute;
+    bottom: 0;
+    left: 58%;
+}
+
